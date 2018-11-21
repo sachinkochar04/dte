@@ -1,0 +1,17 @@
+.nav-tabs .nav-item{
+    border-top: 1px solid #ddd !important;
+    border-left: 1px solid #ddd !important;
+}
+
+.tab-links{
+    display: none;
+}
+.nav-tabs a{
+    font-size: 25px;
+}
+.mw-90{
+    width : 90% ;
+}
+.br-1{
+    border-right : 1px solid #ddd;
+}

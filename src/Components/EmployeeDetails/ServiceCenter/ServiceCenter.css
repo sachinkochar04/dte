@@ -1,0 +1,31 @@
+.table .addEditUserTable_header {
+    font-size: 12px;
+    border-top: 0px;
+    text-transform: uppercase
+  }
+
+.table .addEditUserTable_tableCell  {
+    /* font-size: 14px; */
+  }
+
+.table .addEditUserTable_emplyee_id  {
+font-weight: bold
+}
+.employee_id_input{
+    line-height: 2em;
+}
+.search_employee_btn{
+    border-radius: 0 !important;
+    background: black !important;
+}
+.sec {
+  margin-top: 22px ;
+  padding : 6px 18px ;
+  background-color: black;
+  color: white ;
+}
+
+.crw  {
+    margin: 12px;
+    margin-left: 0px;
+}
